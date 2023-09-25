@@ -6,12 +6,15 @@ This is my personal portfolio website, and I'm thrilled to share it with you. I'
 Overview
 Name: Thomas Sosa
 Occupation: Web Developer
-Projects
+
+Projects:
+
 1. Movie Ranking Project
 ![Movie Ranking Webpage Screenshot](image-1.png)
 
-Description: This project is a movie ranking webpage developed by Thomas. It allows users to rank their favorite movies.
+Description: This project is a movie ranking webpage developed by me. It allows users to rank their favorite movies.
 Click the link above to view the project.
+
 2. Birthday Invite Project
 ![Birthday Invite Webpage Screenshot](image.png)
 
