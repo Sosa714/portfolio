@@ -12,14 +12,14 @@ Projects:
 1. Movie Ranking Project
 ![Movie Ranking Webpage Screenshot](image-1.png)
 
-Description: This project is a movie ranking webpage developed by me. It allows users to rank their favorite movies.
-Click the link above to view the project.
+    Description: This project is a movie ranking webpage developed by me. It allows users to rank their favorite movies.
+    Click the link above to view the project.
 
 2. Birthday Invite Project
 ![Birthday Invite Webpage Screenshot](image.png)
 
-Description: I created this project for birthday invitations. It provides details about the celebration and includes an interactive Google Maps link.
-Click the link above to view the project.
+    Description: I created this project for birthday invitations. It provides details about the celebration and includes an interactive Google Maps link.
+    Click the link above to view the project.
 About Me and Contact
 About Me: Learn more about me, my background, and my interests.
 Contact Me: Get in touch with me if you have any inquiries or would like to collaborate.
